@@ -1,0 +1,422 @@
+It is a great time to be working with data applications. This Programmer Analyst position will give you an opportunity to learn the application and contribute to it as you work with credit union clients. The Programmer Analyst will provide application and client support for ARCU (Advanced Reporting for Credit Unions).  The position is within the Symitar Solutions division/department of Jack Henry & Associates Inc., in Allen, TX.
+MINIMUM QUALIFICATIONS
+          • 2+ years of demonstrated analysis or programming    experience
+          • Basic understanding of database and object oriented concepts
+          • Working knowledge of Windows desktop and server operating systems
+PREFERRED QUALIFICATIONS
+          • Bachelor's degree
+          • Experience with report development, and report development tools experience are a plus
+          • Exposure to SQL, SQL Server and its components (SSIS, SSRS, & SSAS) are a plus
+          • Experience with .NET technology is a plus
+ESSENTIAL FUNCTIONS
+          • 33% support of credit union clients and the application
+          • 33% application installation
+          • 33% develop code and reports for ARCU. 
+          • Troubleshoots and debugs existing code.
+          • Tests code and fixes to ensure quality.
+          • Executes conversion and system implementation plans; implements newly created code and fixes into existing software.
+          • Provides programming support for various interfaces.
+          • Keeps customers informed of all enhancements, troubleshooting, and fixes.
+          • Creates all programming documentation. 
+KNOWLEDGE AND SKILLS
+          • Good communication and customer interaction skills.
+          • General knowledge of the financial industry.
+          • Basic understanding of database technology and programming languages.
+          • General knowledge and understanding of Microsoft operating systems.
+          • Able to meet aggressive deadlines.
+
+Gather project requirements
+Document applications, environments and processes using Microsoft Visio and Microsoft Excel
+Create scripts and maintain version control for those scripts
+Create implementation and testing plans
+Work within a team environment
+Responsibilities sometimes require working evenings, weekends and holidays, sometimes with little advanced notice
+Knowledge, Skills & Abilities:
+Expertise administering Linux and Microsoft Operating Systems
+Experience creating scripts to automate process using one or more of the following: powershell, perl, ruby, python
+Experience with system monitoring approaches, logging concepts, data mining and regular expressions
+Strong knowledge of the OSI Model and TCP/IP networking fundamentals
+Education & Experience:
+Bachelor’s in Computer Science or Management Information Systems preferred
+3-5 years’ experience working with Linux and Microsoft Environments
+Expertise with scripting languages is required
+Any Linux / Microsoft Certifications preferred
+Experience working in a large enterprise server environment is a plus
+
+ Driving project/service delivery. 
+- Performing as technical lead on software development projects with responsibility for overall delivery of software components. 
+- Collaborating with other platforms tech leads to ensure integrated end-to-end design 
+- Documenting design decisions and ensuring adherences 
+- Enforcing existing process guidelines 
+- Mentoring junior developers 
+- Supporting QA during testing, and oversight during implementation into production. 
+- Conducting design & code reviews 
+- Tracking developers’ bandwidth to assist in resource allocation. 
+- Supporting PM in technical tasks & delivery schedule development 
+- Reviewing system test scenarios & test cases. 
+- Monitoring operating efficiency of existing application systems. 
+- Providing oversight to Vendor’s technical design and code delivery.
+
+Qualifications
+
+Basic Qualifications: 
+- Masters Degree or military experience 
+- At least 5 years experience in software development 
+- At least 3 years experience in Java development 
+
+Preferred Qualifications: 
+- Masters Degree in Computer Science 
+- 7 years experience as Senior developer in technology projects leading developers 
+- 3 Years of experience in Spring framework 
+- 3 Years of experience using JUNIT 
+- 3 Years of experience using SOAPUI 
+- 3 Years of experience using Web Service Test Tools 
+- Certifications in Sun Java Programming/Development 
+- Certifications in Oracle 
+- Certifications in SOA Suite Spring framework  
+
+*	More than 15 years Telecom/IT experience in the area of Software Delivery, Software Architecture and Design 
+*	Strong hands-on experience in Agile/Scrum based Customer projects and well versed with Industry established Agile/Scrum Tools and processes.
+*	Extensive Hands-on experience in CSS3, HTML5, JSP, Spring MVC, Spring IOC/AOP
+*	Strong knowledge of JBOSS, Web services (SOAP), J2EE 
+
+More than 10 years Telecom/IT experience in the area of Self-care Back End Software Development and Design 
+*	Strong knowledge of JBOSS, Web services (SOAP), J2EE
+
+Bachelor’s degree or foreign equivalent required from an accredited institution. Will also consider three years of progressive experience in the specialty in lieu of every year of education. * At least 4 years of experience with Information Technology. Preferred
+
+Experience in PL/SQL programming is required (Must be very strong in PL/SQL and query writing) * Should be able to write packages, procedures, functions and triggers * Should be ready to do support client applications and support within the SLA * Should have experience writing dynamic sql * Should be able to create tables with constraints and indexes * Good DDL and DML writing skills as well as writing very complex queries * Experience with Oracle 11g environment preferred * Experience writing Batch data manipulation, table population/conversion stored procedures. * Experience with Oracle relational databases * Experience with Unix basic commands and shell scripting * Familiar with Oracle specific tools and utilities (like SQL developer, Toad) * Experience in web technologies or Java will be a plus * Subject matter expertise on Supply chain domain * Good experience with offshore coordination and do review and testing of deliverables * Solid experience in SDLC from requirement gathering till rollout and documentation. * Excellent analytical, problem solving and customer service skills * Ability to monitor and ready to do support during extended hours * Strong written and communication skills * Should be write technical documents and specs
+
+Building and coding applications and/or modules using JAVA. 
+
+* Providing patches and upgrades to existing systems. May design graphical user interfaces to meet the specific needs of users. 
+
+* Preparing operating instructions, compiling documentation of program development, and analyzing system capabilities to resolve questions of program intent, output requirements, input data acquisition, programming techniques, and controls. 
+
+Qualifications 
+
+Basic Qualifications: 
+
+To be considered for this position, you must minimally meet the knowledge, skills, and abilities listed below: 
+
+* Bachelor's degree in Computer Science or related from an accredited college or university 
+
+* Must have a minimum of 2 years of experience as JAVA programmer 
+
+Preferred Qualifications: 
+
+Candidates with these desired skills will be given preferential consideration: 
+
+* Experience using jBOSS, Liferay, J2EE, Spring, Hibernate, Unix, Linux and/or Perl are preferred. 
+
+Facilitating requirements gathering sessions and be able to translate business needs into proper solutions.
+Participate with architecture team in technical evaluations, solution and design approaches discussions
+Design, build, test and deploy highly scalable, high volume Java based Web Services following a traditional REST model.
+Perform code reviews and mentor other team members on the proper approaches to web services development.
+Able to work both in a team environment and as an individual contributor
+Responsible for actively supporting complex projects or programs from the Software development standpoint to drive the development of multiple GreenSky applications.
+Responsible for support to the team in achieving priorities, goals and strategies with key stakeholders.
+Provides objective advice, expertise and specialist support skills with the aim of creating value and maximizing growth, or improving the business performance of their clients.
+Ensures that development activities are on a path to deliver benefits realization.
+Ensures collaboration with key functional partners in the implementation of initiatives.
+Readily recognizes solution and determines at what point issues require escalation to management.
+Required Experience:
+
+ 5 years of Java Web Services development background
+
+7+ years of Java development
+Recent experience developing and implementing Java based Web Services, primarily in a REST model, but experience with SOAP is a plus.
+Experience with major Open Source Java tools such as Tomcat, Wildfly, JaxRS, Mule, Apache ODE
+Experience developing, deploy, test and maintain technical assets in SOA environment, web services and integration
+Experience with build and development tools like Gradle and Maven
+Knowledge of other languages such as LUA and Groovy a plus
+Experience with Java Persistence Architecture (JPA) using tools such as Hibernate or OpenJPA
+
+Provide SME support and services in utilizing and optimizing the migration activities
+from a technical standpoint.
+Provide expertise, services, and documentation of daily operations, analysis activities,
+testing, development, and troubleshooting of migration activities.
+Respond to technical requests for migration support. These requests may come from
+email, phone call, tickets, JAAG support requests, verbal face-to-face
+requests, or other communication.
+Identify and present technical opportunities for consolidation, centralization, or reuse.
+Create reusable code, frameworks, and other technologies to preemptively address
+migration needs where probability of reuse is high.
+Document and publish technical support information for reuse by other migration
+projects.
+Participate and support developer community meetings (including but not limited to Java
+User Group (JUG)) to share best practices, technical expertise, and other migration
+related information.
+Necessary Skills:
+
+Expertise in Java technologies
+Good oral and written communication
+Must be U.S. citizen or green card holder due to federal government contract stipulations
+
+At least 5+ years development experience developing/maintaining Java n-tiered application
+* Strong familiarity with SOA concepts
+* Expert knowledge of Design Patterns and Design by Contract
+* Strong JUnit and/or TestNG experience. Experience in writing Test suites and unit testing web services a big plus.
+* Experience using the Axis2 and CXF Libraries
+* Strong SQL query skills
+* Experience with JSON and XML
+* Building services in an SOA environment
+* Experience with build technology (Ant, Maven, etc.)
+
+Education Requirements:  
+* BA/BS or equivalent experience
+
+Preferred Skills:  
+* Experience with databases (MySQL, MS SQL Server)
+* Experience with Enterprise Integration Patterns
+* Working knowledge of ETL processes
+* Familiarity with C++ (legacy applications)
+* Experience with Java ORM layers (Hibernate, OpenJPA, iBatis, etc.)
+* Experience with Enterprise OSGi
+* Experience with the Spring Framework
+* Familiarity with the transportation industry
+* Familiarity with the optimization
+* Knowledge, Skills, and Abilities:
+* Must be detail-oriented, extremely organized, and will have exceptional writing and communication skills
+* Demonstrated a record of developing successful applications that are highly integrated and reliable
+* Ability to operate effectively, and with a sense of possibility, in a fast-paced, deadline-driven environment
+* Strong interpersonal skills and a willingness to be highly collaborative in coming up with solutions
+
+7+ years of professional software development experience with web applications.
+Core Java
+OOAD programming (Functional Programming a plus)
+RESTful API development
+Spring RAD toolkits (Spring Boot, Integration)or any RAD toolkits
+Jboss DROOLS experience
+SOAP experience will be a plus
+Microservice/SOA based Architecture experience will be a plus. 
+​Good communication skills
+Exposure to Agile methodologies
+Performs tasks quickly and effectively with little supervision and ability to mentor others where needed
+
+
+Academic background in computer science, computer engineering or a similar major with extensive computer-based or technical content.​
+
+Basic knowledge  with Java, JavaScript,
+
+Database SQL experience ​
+
+Excellent analytical, written and oral communication skills.​
+
+Ability to complete projects within budget and on time.​
+
+2 – 3 years’ experience with SOA methodology
+
+•             Working knowledge of XSLT
+
+•             Working experience of canonical modeling
+
+•             Working experience with creating XSD’s
+
+•             Working experience with creating various kinds of mappings (XSDs, DBs, EDIs, and text files).
+
+•             Lead and participate in the design and implementation of large and/or architecturally significant applications.
+
+•             Champion company standards and best practices.  Work to continuously improve software delivery processes and practices.
+
+•             Build partnerships across the application, business and infrastructure teams.
+
+Nice to Have:
+
+•             Experience with Altova XMLSpy, MapForce, StyleVision and SchemaAgent.
+
+•             Data modeling experience
+
+•             Working knowledge of data modeling tools like Erwin
+
+Integration Expertise: JSP, MVC Spring IOC Spring AOP, Web service(SOAP)
+
+Participate in all activities accordingly to ensure on time deliverables are met including day-to-day planning and coordination with testers, developers, project managers, and business representatives
+* Drive full life cycle product development
+* Complex Java/J2EE JWS development
+* Develop enterprise integration solutions in coordination with technical managers and other developers/design team
+* Provide technical direction for software design, project planning and documentation
+* Assist QA in understanding feature implementations, test case development and troubleshooting
+* Perform necessary documentation, source control and defect resolution tasks
+
+Knowledge, Skills, and Abilities
+Required:
+* ADVANCED Java J2EE and core Java programming skills is a MUST 
+* Web-based software development experience
+* Object-Oriented analysis and design skills (OOA/OOD)
+* Knowledge of XML, JMS, LDAP, and Web Service Standards SOAP/WSDL
+* Knowledge of Version Control System such as CVS
+* Ability to work in a fast paced and Agile development environment
+* Multi-Threaded Programming
+* A self-starter that drives tasks to completion
+* Excellent problem solving skills
+* Excellent communication skills (written and oral)
+
+Preferred:
+* Experience working with relational databases such as Oracle and JDBC/Hibernate
+* Familiarity with frameworks such as Spring
+* Ability to write automatic test scripts for Ajax based Web 2.0 GUI
+* Experience writing code in high volume, Service Oriented Architectures (SOA)
+* GUI development with JSF (icefaces), Popular JavaScript frameworks, GWT and Web 2.0
+* Preferred knowledge Web Service implementations based on JAX-WS
+* Knowledgeable in SAML 1.1/2.0, XACML 1.1/2.0, WS-Security, WS-Policy, JMeter, JUnit, JSON, and/or X.500
+
+Work Experience, Education, Certifications and Licenses
+* Bachelor of Science in Computer Science, Engineering or related field
+* At least 5 years of development experience
+* Active Security Clearance (preferred)
+* Must be US Citizen
+
+Requirement gathering & understanding, effort estimation, technical and architectural design and development. 
+
+* Work proactively & independently to address project requirements and articulate issues/challenges with enough lead time to address project delivery risks 
+
+* Provide expertise in technical analysis and solving technical issues during project delivery 
+
+* Customer interfacing - understand customer requirements, propose technical solutions. 
+
+* Full Software Development Lifecycle Code reviews, test case reviews and ensures code developed meets the requirements 
+
+* Component Design/ Coding/ Unit testing/ Debugging 
+
+* Should able to work independently, good communication and strong technical skills. 
+
+Required Skills:   
+
+
+* Bachelor's degree (in science, computers, information technology or engineering). 
+
+* Substantial experience in Enterprise Java with HTML5. Experience in designing and architecting medium to complex systems, well versed with design standards & framework 
+
+* Experience in working on multiple technologies and complex projects Quick learner of new tools and technologies. 
+
+* Experience in Enterprise Java, Core Java, Spring, Hibernate, Multithreading/Concurrency, ECLIPSE, WebServices (SOAP), JSP, Servlets, JQuery, EJB, HTML5, Ajax, XML, Java Script, CSS3, and MVC, Apache Click, Velocity/Framework. Java Script Essential and Form Development 
+
+Preferred Skills:   
+
+
+* Adobe Live Cycle (ES2/ES4), Avoka Forms/ 
+
+Java, JVM, Python, IDE, MongoDB
+
+We are a technology company that's redefining the Financial Services space. Our unified, modern APIs enable instant and unprecedented access to banking, execution and clearing services. Our customers range from savvy start-ups to brand-name online brokerages to large hedge funds. With them, we're setting the new standard for Financial Services technology.
+
+We are seeking an experienced programmer to work on the server-side of our next- generation clearing platform. The Software Engineer will work on systems for, among other things, risk management, margin calculation, trade surveillance, cash management, and trade execution. While most of our software runs on the JVM, we value a broad range of experience with languages and frameworks.
+
+What You Need for this Position
+
+•4+ years of software engineering experience
+•Deep Java fluency
+•JVM
+•Python
+•IDE
+•MongoDB
+•Financial industry experience is a PLUS
+
+
+Java, JavaScript, Spring, Maven, MySQL, Mockito, OOA, J2EE, Git, Jenkins / SonarCube / Puppet
+
+If you are a Senior Java Developer with experience, please read on!
+
+Top Reasons to Work with Us
+
+1. We are a growing company located in Dallas, Tx.
+2. We are a young but steady growing company.
+3. You will get a chance to work on exciting new development projects with a talented team.
+
+What You Will Be Doing
+
+Conducts peer code reviews for system modifications and development.
+Ability to collaborate with an offshore team to complete project deliverables.
+Coordinates with other developers to complete cross system implementations
+Keeps management team apprised of work progress and is proactive in communicating any concerns or opportunities for better project deliver.
+Ability to work flexible hours as needed to accommodate offshore team and deadlines.
+Ability to clearly communicate design rationales and build consensus around designs.
+Ability to develop innovative approaches to complex design problems.
+Ability to work within timeline to deliver product on time.
+
+What You Need for this Position
+
+At Least 3 Years of experience and knowledge of:
+
+- Java
+- JavaScript
+- Spring
+- Maven
+- MySQL
+- Mockito
+- OOA
+- J2EE
+- Git
+- Jenkins / SonarCube / Puppet
+
+
+3-5 years of experience within SOA services software development and analysis
+IBM WebSphere Message Broker (WMB)/IBM Integration Bus (IIB) & WebSphere MQ experience
+Java/J2EE enterprise software application development experience
+Experience in XML/HTML and related protocol/messaging technologies
+Familiarity and experience with eSQL and other relational databases, and scripting experience highly desirable 
+Experience developing Enterprise Architecture to support High Volume, Scalable and Resilient Infrastructure
+Working knowledge with MISMO and/or IFX is preferred
+
+Spring, Hibernate, JSF or similar tool
+
+This job will have the following responsibilities: 
+* Assist the marketing and product groups in evaluation of ideas to make go/no go market decisions.
+* Develop prototypes for the ideas that get "Go" decision from stakeholders.
+* Work with development groups within the company to take the prototypes to production.
+* Assist in crafting and maintaining the future state technology architectural strategy and roadmap
+* Evaluate new technologies and software products to determine feasibility and desirability of incorporating their capabilities within the company's products.
+* Works with third party vendors to develop software and/or integrate their software into the company's products.
+* Guide and contribute extensively to the ongoing collection, development, review and adoption of architecture and development standards and best practices.
+* Stay up to date on latest technologies, open source projects and languages.
+* Mentor and assist developers as they migrate to new technologies.
+
+Qualifications & Requirements: 
+* Bachelor's degree in engineering or computer science
+* Strong Object Oriented Design Skills
+* Web development o Experienced in utilizing one or more Web MVC Frameworks(JSF, Spring MVC etc,) o HTML, JavaScript, jQuery and CSS
+* Full understanding of Service Oriented Architecture and SOAP Web Services
+* Full understanding of REST architecture principles and JAX-RS specification
+* Comfortable with JSON and XML document models
+* Understands special considerations when building REST services for AJAX clients, such as CORS, XSRF, caching
+* Understanding of Single Sign On and relevant technologies/specifications like OAuth, OpenID and SAML
+* Experience with Spring Framework
+* Experience with Hibernate/JPA.
+* Good understanding and experience in relational databases ( Oracle or SQL Server)
+* Excellent analytical, communication, organizational and problem-solving skills coupled with a strong work ethic
+
+3-5 years' experience developing Java/J2EE applications; strong knowledge in Core Java; strong knowledge in Java 2 Enterprise Edition (J2EE); extensive knowledge in object oriented design, design patterns, and best practices; Java Server Faces (JSF) / Facelets; AJAX component frameworks (RichFaces, IceFaces) and Spring or Enterprise Java Beans 3 (EJB3)
+
+Must have strong hands on development experience
+
+Must have 4 years of experience working as Development Lead/Architect
+
+Must have Senior-level Interface experience (MQ, Web Service, batch, etc)
+
+Extensive experience with Java, JSF, Hibernate, Spring, Oracle db (or alternate RDBMS)
+
+Advanced knowledge of PL/SQL
+
+4+ years of Java development, XML APIs and SOAP web services, JSF, JEE6, JQuery, AJAX, Spring Batch, Apache Camel. Ability to troubleshoot/support/fix production web sites and batch processes. 
+Very good communication and previous experience working remote with a virtual team is preferred.
+
+Must have strong Java 8 programming skills
+
+Must have experience with Lambda Expressions/Closures
+
+Must have experience with Streams
+
+Must have experience with Parallelization
+
+Must have experience with JavaFX
+
+Must have experience with Oracle or similar RDBMS
+
+Must have strong SQL skills
+
+Must have experience with Eclipse
+
+Must have experience with Clear Case/Subversion/Git
+
+
