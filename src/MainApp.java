@@ -22,8 +22,7 @@ public class MainApp {
             String[] line = content.split("\\s+");
 
             Analyzer keywords = new Analyzer(line);
-            //keywords.printBigLine();
-            //keywords.count();
+
             keywords.wordCount();
 
         } catch (FileNotFoundException e) {
